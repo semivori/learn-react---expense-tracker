@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeebeeba-b036-472f-ad4a-d3f183383cd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AddTransaction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Balance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/IncomeExpenses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Transaction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TransactionList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/AppReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/GlobalState.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +88,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582449280974</updated>
-      <workItem from="1582449282136" duration="8170000" />
+      <workItem from="1582449282136" duration="8410000" />
+      <workItem from="1582471327989" duration="1492000" />
+      <workItem from="1582805108878" duration="668000" />
     </task>
     <servers />
   </component>
@@ -117,7 +102,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
