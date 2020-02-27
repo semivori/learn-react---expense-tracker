@@ -17,7 +17,7 @@ const AddTransaction = () => {
 
         addTransaction(newTransaction);
         setText('');
-        setAmount(null);
+        setAmount('');
     };
 
     return (
